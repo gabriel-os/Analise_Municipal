@@ -18,12 +18,11 @@ Compras
 Afazeres
     [ ] Distancias das faculdades
     [ ] Distancias dos trabalhos
-Saúde publica
+Saúde
     [ ] CRAS
     [ ] Albergue
+    [ ] Hospitais	
 Dados populacionais
     [ ] Comunidades
     [ ] Demografia
     [ ] IDHM
-Saúde
-    [ ] Hospitais
